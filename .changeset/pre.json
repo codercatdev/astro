@@ -28,5 +28,10 @@
     "@astrojs/telemetry": "3.0.4",
     "@astrojs/underscore-redirects": "0.3.3"
   },
-  "changesets": []
+  "changesets": [
+    "calm-baboons-watch",
+    "light-ties-poke",
+    "modern-candles-sip",
+    "wild-apricots-rescue"
+  ]
 }
